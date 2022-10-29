@@ -11,6 +11,7 @@
 </template>
 
 <script>
+	// pubsub 发布/订阅库
 	import pubsub from 'pubsub-js'
 	import MyHeader from './components/MyHeader'
 	import MyList from './components/MyList'
